@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, adventurer 👋<br><br>☁️ I am a cloud-based Operations Engineer. <br>🛳️ I'm passionate about Cloud Technologies, mainly AWS, and Orchestration and Containerization tools. 🛳️<br>⚡ Fun fact about me? I'm a frequent flyer at many Dark Alternative Festivals 🦇 and a proud member of the Gothic subculture (especially Cybergoth ☣️)
+Hi there, adventurer 👋<br><br>☁️ I am a cloud-based Operations Engineer. <br>🛳️ I'm passionate about Cloud Technologies, mainly AWS, and Orchestration and Containerization tools. <br>⚡ Fun fact about me? I'm a frequent flyer at many Dark Alternative Festivals 🦇 and a proud member of the Gothic subculture (especially Cybergoth ☣️)
 
 
 ## 🌐 Socials:
